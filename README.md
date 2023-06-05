@@ -56,3 +56,12 @@ Contains data about user reviews of books:
 - Determine the publisher that has released the most books with more than 50 pages;
 - Identify the author with the highest average rating for books, considering only books with 50 or more ratings;
 - Calculate the average number of reviews from users who have given more than 48 ratings.
+
+**Conclusion**
+Based on the analysis, we have determined the following:
+
+819 books were released after January 1, 2000.
+Penguin Books has released the highest number of books - 42.
+The book by J.K. Rowling and Mary GrandPré has the highest average rating of 4.3.
+The average number of reviews from users who have given more than 48 ratings is 24.
+We have also supplemented the table with the number of reviews and average rating for each book.
